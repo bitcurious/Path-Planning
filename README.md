@@ -27,4 +27,7 @@ To enable navigation with different path planning algorithms, run the following 
 roslaunch path_planning path_planning.launch
 ```
 It will open a rviz window select 2D Nav Goal button and select the goal position on the map.
+
 ![Astar](https://github.com/bitcurious/Path-Planning/blob/master/videos/Screenshot%20from%202023-12-20%2016-31-19.png)
+
+In the path_planning/scripts/path_planning_server.py file, locate line 42 and change the algorithm to your desired one (e.g., astar, dijkstra, rrt).
