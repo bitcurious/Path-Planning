@@ -32,8 +32,10 @@ It will open a rviz window select 2D Nav Goal button and select the goal positio
 
 In the path_planning/scripts/path_planning_server.py file, locate line 42 and change the algorithm to your desired one (e.g., astar, dijkstra, rrt).
 
-### 4. Media
+### 4. RRT
 
 ![RRT](https://github.com/bitcurious/Path-Planning/blob/master/videos/RRT.png)
+
+### 4. Dijkstra
 
 ![Dijkstra](https://github.com/bitcurious/Path-Planning/blob/master/videos/Dijkstra.png)
