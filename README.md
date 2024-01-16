@@ -36,6 +36,6 @@ In the path_planning/scripts/path_planning_server.py file, locate line 42 and ch
 
 ![RRT](https://github.com/bitcurious/Path-Planning/blob/master/videos/RRT.png)
 
-### 4. Dijkstra
+### 5. Dijkstra
 
 ![Dijkstra](https://github.com/bitcurious/Path-Planning/blob/master/videos/Dijkstra.png)
